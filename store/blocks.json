@@ -32,7 +32,7 @@
   "header.full": {
     "blocks": ["login", "minicart", "logo", "search-bar", "menu-link", "telemarketing", "category-menu"],
     "props": {
-      "logoUrl": "https://static.gocommerce.com/gc-xpb5715/assets/gocommerce/png/logo.png"
+      "logoUrl": "https://static.gocommerce.com/gc-ppk0431/assets/gocommerce/png/logo.png"
     }
   },
   "login": {
