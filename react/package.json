@@ -1,9 +1,9 @@
 {
-  "name": "gocommerce.fashion-theme",
-  "version": "0.1.0",
+  "name": "gocommerce.theme-cosmetic",
+  "version": "1.0.0",
   "dependencies": {},
   "description": "",
-  "main": "FashionTheme.js",
+  "main": "ThemeCosmetic.js",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
