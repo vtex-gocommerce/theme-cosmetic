@@ -24,6 +24,7 @@
   color: #142032;
   font-weight: 500;
   padding: 14px 0;
+  text-transform: uppercase;
 }
 
 .itemContainer a:global(.b--action-primary) {
@@ -32,6 +33,7 @@
 
 .firstLevelLink {
   font-weight: 500;
+  text-transform: uppercase;
 }
 
 .secondLevelLink {
